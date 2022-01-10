@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Cola",
+        "count": 120,
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "name": "Gosht",
+        "count": "120kg",
+        "marketId": 1
+    },
+    {
+        "id": 3,
+        "name": "Fanta",
+        "count": 100,
+        "marketId": 2
+    },
+    {
+        "id": 4,
+        "name": "Kartoshka",
+        "count": "100kg",
+        "marketId": 2
+    }
+]

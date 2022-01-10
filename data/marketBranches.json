@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Korzinka Yunsubod",
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "name": "Korzinka Chilonzor",
+        "marketId": 1
+    },
+    {
+        "id": 3,
+        "name": "Makro Nurafshon",
+        "marketId": 2
+    },
+    {
+        "id": 4,
+        "name": "Makro Qo'yliq",
+        "marketId": 2
+    }
+]

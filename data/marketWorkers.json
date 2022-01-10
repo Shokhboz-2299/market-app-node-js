@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Aziz",
+        "wokrType": "Kassir",
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "name": "Laziz",
+        "wokrType": "Qorovul",
+        "marketId": 1
+    },
+    {
+        "id": 3,
+        "name": "Aziz",
+        "wokrType": "Kassir",
+        "marketId": 2
+    },
+    {
+        "id": 4,
+        "name": "Laziz",
+        "wokrType": "Qorovul",
+        "marketId": 2
+    },
+    {
+        "name": "Aziza",
+        "workType": "Manager",
+        "marketID": 1,
+        "id": 5
+    }
+]
